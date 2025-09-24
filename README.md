@@ -1,6 +1,15 @@
 # Olá, eu sou Caio Gonçalves 👋
 
   <img src="https://github.com/CaioDelPaco.png" alt="Caio Gonçalves"/>
+
+.profile-pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;   /* <--- Adicione esta linha */
+    border: 5px solid var(--cor-branco);
+    margin-bottom: 15px;
+    object-fit: cover;    /* <--- Dica Bônus: Adicione esta também! */
+}
   
 ### 👨‍💻 Sobre mim
 
