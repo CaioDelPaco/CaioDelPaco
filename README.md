@@ -8,7 +8,6 @@ Sou estudante de Desenvolvimento de Jogos Digitais, apaixonado por tecnologia e 
 - 💻 Participante do programa Jovem Programador no SENAC Tubarão
 - 🌱 Aprendendo mais sobre JavaScript, C# e Unity
 - 📫 Como me encontrar: caiogoncalves103123@gmail.com
-- 😄 Pronomes: Ele/Dele
 
 ---
 
