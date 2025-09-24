@@ -1,5 +1,7 @@
 # Olá, eu sou Caio Gonçalves 👋
 
+  <img src="https://github.com/CaioDelPaco.png" alt="Caio Gonçalves"/>
+  
 ### 👨‍💻 Sobre mim
 
 Sou estudante de Desenvolvimento de Jogos Digitais, apaixonado por tecnologia e resolução de problemas. Atualmente, estou focado em programação, desenvolvimento web e criação de jogos digitais.
