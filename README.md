@@ -14,7 +14,7 @@ Sou estudante de Desenvolvimento de Jogos Digitais, apaixonado por tecnologia e 
 
 ### 🚀 Meu Currículo Online
 
-**Para uma visão completa das minhas habilidades e experiências, confira meu currículo interativo!**
+**Para uma visão completa das minhas habilidades e experiências, confira meu currículo!**
 
 <a href="https://raw.githubusercontent.com/CaioDelPaco/CaioDelPaco/main/preview-curriculo.png" target="_blank">
   <img src="https://img.shields.io/badge/Acessar%20Currículo-003366?style=for-the-badge&logo=github&logoColor=white" alt="Botão para Acessar Currículo"/>
